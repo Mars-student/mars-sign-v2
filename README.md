@@ -10,4 +10,4 @@ The "4" is 60 pixels in length and the "0" is 72 pixe3ls in length.
 The signs connect automatically to a small handheld controller that passes a "mode" to the connected signs. That mode is received and case logic is used to determine the function to display.
 
 
-LEt's have some fun creating various annimations to display on these!
+Let's have some fun creating various annimations to display on these!
